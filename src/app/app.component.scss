@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~@progress/kendo-theme-default/scss/all";
+.k-button.k-primary[_ngcontent-c0], .k-slider[_ngcontent-c0] .k-draghandle[_ngcontent-c0], .k-switch-on[_ngcontent-c0] .k-switch-handle[_ngcontent-c0] {
+    color: #ffffff;
+    background-color: #ff6358;
+    border-color: #ff6358;
+    background-image: linear-gradient(rgba(255, 138, 88, 0), rgba(255, 138, 88, 0.2));
+}
